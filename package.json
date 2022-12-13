@@ -1,7 +1,6 @@
 {
   "name": "skeleton",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/app.js",
@@ -39,5 +38,6 @@
     "chai-http": "^4.3.0",
     "mocha": "^10.1.0",
     "nodemon": "^2.0.20"
-  }
+  },
+  "description": ""
 }
